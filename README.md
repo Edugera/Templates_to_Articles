@@ -23,8 +23,8 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 * [Medium](https://medium.com/@edugera47)
 
 
-## Projetos:
+## Articles:
 
 
-* Criação de Visualizações com Matplotlib e Seaborn 
+* Criação de Visualizações com Matplotlib e Seaborn: https://bit.ly/36mMxdK
 
