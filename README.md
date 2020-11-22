@@ -28,3 +28,5 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 
 * Criação de Visualizações com Matplotlib e Seaborn: https://bit.ly/36mMxdK
 
+* Análise de Séries temporais: https://bit.ly/2ISRmEa
+
