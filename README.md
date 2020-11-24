@@ -30,3 +30,5 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 
 * Análise de Séries temporais: https://bit.ly/2ISRmEa
 
+* Não use mais recurssiva no Phyton: https://bit.ly/3m2NjTL
+
