@@ -17,7 +17,7 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 
 **Background in:** Energy Trade, Mathematics, Physics and Python.
 
-* [Site/Blog](http://www.edugera.com/)
+* [Site/Blog](http://www.edugera.com.br/)
 * [LinkedIn](https://www.linkedin.com/in/eduardo-ferreira-01a8441b/)
 * [Medium](https://medium.com/@edugera47)
 
