@@ -8,10 +8,9 @@ Translations and adaptations of articles related to Data Science and Python Lang
 </p>
 
 # Eduardo Ferreira
-<sub>*Math and Physics Teacher and Energy Trader</sub>
+<sub>*Salesperson and Professor of Mathematics and Physics.
 
-As an teaching experience for over 20 years at all ages, from 5th grade to 1st year of college, today I attend pre-university students. The main skills developed are problem solving, motivation to study, strengthening and applying high school Mathematical and Physical concepts. 
-And in the activity of commercialization of electric power, they are more than 10 years in the analysis of price formation, assembly of strategies, negotiation of contracts, formation of teams and customer portfolio.
+Enthusiast in Programming Languages and structuring sales forces and negotiating tables.</sub>
 
 Education is in Mathematics at UNICAMP - State University of Campinas and a degree from UBC - Universidade Braz Cubas.
 
